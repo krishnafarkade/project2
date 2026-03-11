@@ -6,3 +6,6 @@ shradha mam
 
 # platform
 apna college
+
+# thanks to
+mam
